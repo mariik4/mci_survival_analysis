@@ -14,3 +14,4 @@ graphviz
 pydot
 jupyter
 wandb
+lifelines
