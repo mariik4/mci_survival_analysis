@@ -15,3 +15,5 @@ pydot
 jupyter
 wandb
 lifelines
+missingno
+scikit-survival
